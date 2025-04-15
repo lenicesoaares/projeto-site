@@ -1,0 +1,16 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+body {
+    background-color: aqua;
+}
+
+main {
+    background-color: aliceblue;
+    box-shadow: 3px 3px 5px black;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
